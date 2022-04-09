@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: XT是憨憨
 tags: TeXt
 article_header:
   type: cover
